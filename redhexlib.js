@@ -1,3 +1,5 @@
+// http://www.redblobgames.com/grids/hexagons/
+
 //
 // Cube
 // Three-value hex coordinate that simplifies calculations. 
